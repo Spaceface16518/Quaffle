@@ -16,3 +16,5 @@
     <button onclick="addToArray(3)">3</button>
     <br>
     
+</body>
+</html>
